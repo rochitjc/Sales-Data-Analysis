@@ -17,9 +17,9 @@ Insights and recommendations are provided across the following categories:
 - **Category 3: Product Subcategory Performance**
 - **Category 4: Profit Margin Analysis**
 
-- Dataset:  
+- [Dataset](https://github.com/rochitjc/Sales-Data-Analysis/tree/a9cb052d5bc1c008e6663b44184f6cc1aa8c71f6/Dataset)
 - [Tableau dashboard for interactive exploration](https://public.tableau.com/app/profile/rochit.choudhary8883/viz/Dashboard_17467052469810/SalesDashboard?publish=yes)
-
+![Database](https://github.com/rochitjc/Sales-Data-Analysis/blob/a9cb052d5bc1c008e6663b44184f6cc1aa8c71f6/Screenshot/Dashboard%202023.png)
 ---
 
 ##  Data Structure & Initial Checks
@@ -42,7 +42,7 @@ SuperMart’s sales data is structured into three main tables:
 - Orders ↔ Products (via Product ID)  
 - Orders ↔ Location (via Postal Code)
 
- *Entity Relationship Diagram:*  
+ ![Entity Relationship Diagram](https://github.com/rochitjc/Sales-Data-Analysis/blob/a9cb052d5bc1c008e6663b44184f6cc1aa8c71f6/Screenshot/Data%20model.png)  
 
 
 ---
@@ -59,15 +59,13 @@ Between 2020 and 2023, SuperMart saw strong revenue and profit growth, nearly do
 ---
 
 ##  Overview of Findings
+<img src="Screenshot/KPI trends.jpg" width="1000"/>
 
 - **Sales Growth:** From $484K (2020) to $733K (2023)
 - **Profit Growth:** From $50K to $93K
 - **Profit Margin:** Rose from 10.23% (2020) to 13.43% (2022), dropped to 12.74% (2023) 
 - **Seasonality:** December consistently highest sales month; January the lowest
 - **Risk Areas:** Losses in Tables, Bookcases, and new 2023 drop-offs (e.g., Envelopes, Machines)
-
- *Overall Trend Snapshot:*  
-[Overall KPI Trends](#)
 
 ---
 
