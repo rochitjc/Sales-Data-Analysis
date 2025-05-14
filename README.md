@@ -19,7 +19,7 @@ Insights and recommendations are provided across the following categories:
 
 - [Dataset](https://github.com/rochitjc/Sales-Data-Analysis/tree/a9cb052d5bc1c008e6663b44184f6cc1aa8c71f6/Dataset)
 - [Tableau dashboard for interactive exploration](https://public.tableau.com/app/profile/rochit.choudhary8883/viz/Dashboard_17467052469810/SalesDashboard?publish=yes)
-![Database](https://github.com/rochitjc/Sales-Data-Analysis/blob/a9cb052d5bc1c008e6663b44184f6cc1aa8c71f6/Screenshot/Dashboard%202023.png)
+  <img src="Screenshot/Dashboard 2023.png" width="1000"/>
 ---
 
 ##  Data Structure & Initial Checks
@@ -78,20 +78,17 @@ Between 2020 and 2023, SuperMart saw strong revenue and profit growth, nearly do
 - 2023 saw growth (+20.4% sales) but declining margin (–5.09%).
 - Weekly averages steadily increased across KPIs.
 
-*Visualization:* KPI trends dashboard top row  
-![KPI Trends](#) all year photos kpi
-
 ---
 
 ###  Category 2: Monthly and Weekly Sales Patterns
 
 - December = peak month every year; January = lowest.
-- February often sees highest profit margins, while March–April show dips.
+- February often sees the highest profit margins, while March–April show dips.
 - Weekly trends reveal volatility, especially in 2021 and 2023.
 - Q4 clusters strong performance—room to capitalize further.
 
- *Visualization:* Sales & profit trends over time  
-![Monthly and Weekly Trends](#)spot
+Sales & profit trends over time  
+<img src="Screenshot/Sales & profit trends over time.jpg" width="800"/>
 
 ---
 
@@ -102,8 +99,7 @@ Between 2020 and 2023, SuperMart saw strong revenue and profit growth, nearly do
 - Envelopes, Fasteners, and Machines flipped to negative in 2023.
 - Binders, Chairs, and Storage show promising growth.
 
- *Visualization:* Sales & profit by subcategory  
-![Subcategory Comparison](#)
+ <img src="Screenshot/Product Subcategory Performance.png" width="800"/>
 
 ---
 
@@ -113,9 +109,6 @@ Between 2020 and 2023, SuperMart saw strong revenue and profit growth, nearly do
 - 2023’s margin decline likely due to rising costs or discounting.
 - Weekly margin volatility decreased post-2021 but still needs work.
 - High-margin categories help offset weak performers.
-
- *Visualization:* Profit margin analysis  
-![Profit Margin Trends](#)
 
 ---
 
@@ -134,7 +127,7 @@ Between 2020 and 2023, SuperMart saw strong revenue and profit growth, nearly do
 > Invest in marketing, availability, and promotions for Labels, Copiers, and Phones.
 
 ### 5. Stabilize Weekly KPIs
-> Identify and smooth causes of weekly profit volatility.
+> Identify and smooth the causes of weekly profit volatility.
 
 ---
 
