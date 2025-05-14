@@ -2,11 +2,14 @@
 
 ## Project Background
 
-SuperMart, established in 2018, is a U.S.-based national retailer specializing in office supplies, furniture, and technology products. It serves both businesses and individual consumers through  offline channel. The company has accumulated a rich dataset encompassing sales, product performance, and regional trends.
+SuperMart, established in 2018, is a U.S.-based national retailer specializing in office supplies, furniture, and technology products. It serves both businesses and individual consumers through an  offline channel. The company has accumulated a rich dataset encompassing sales, product performance, and regional trends.
 
 As a data analyst at SuperMart, this project analyzes sales data from 2020 to 2023 to uncover patterns, identify risks, and recommend actions that can optimize sales strategy, product assortment, and regional focus.
 
 ---
+##  Tools Used
+- Excel (Data Cleaning & Exploration)
+- Tableau (Dashboard Creation)
 
 ##  Focus Areas
 
@@ -27,7 +30,7 @@ Insights and recommendations are provided across the following categories:
 SuperMart’s sales data is structured into three main tables:
 
 ### Table 1: Orders
-> Contains transactional-level sales data  
+> Contains transactional-level sales data
 **Key Fields:** Row ID, Order ID, Order Date, Ship Mode, Customer ID, Segment, Postal Code, Product ID, Sales, Quantity, Discount, Profit
 
 ### Table 2: Products
@@ -51,10 +54,12 @@ SuperMart’s sales data is structured into three main tables:
 
 Between 2020 and 2023, SuperMart saw strong revenue and profit growth, nearly doubling both. However, profit margins peaked in 2022 and declined in 2023, highlighting emerging challenges.
 
-###  Top 3 Takeaways:
+###  Top 5 Takeaways:
 1.  **Consistent growth** in sales and profit, especially post-2021.
 2.  **Profit margin decline in 2023**, despite revenue growth.
 3.  **Persistent loss-makers** in subcategories like Tables and Bookcases need urgent attention.
+4. **Reevaluate discounting strategy.**
+5. **Focus marketing on high-profit tech products.** 
 
 ---
 
@@ -115,19 +120,19 @@ Sales & profit trends over time
 ##  Recommendations
 
 ### 1. Address Loss-Making Subcategories
-> Reassess pricing and sourcing for Tables, Bookcases, and 2023’s new loss-makers.
+Reassess pricing and sourcing for Tables, Bookcases, and 2023’s new loss-makers.
 
 ### 2. Investigate 2023 Margin Decline
-> Analyze cost structures, discounting, and product mix shifts.
+Analyze cost structures, discounting, and product mix shifts.
 
 ### 3. Capitalize on Seasonality
-> Plan inventory and campaigns around Q4 peaks and Jan lulls.
+Plan inventory and campaigns around Q4 peaks and Jan lulls.
 
 ### 4. Focus on High-Margin Winners
-> Invest in marketing, availability, and promotions for Labels, Copiers, and Phones.
+Invest in marketing, availability, and promotions for Labels, Copiers, and Phones.
 
 ### 5. Stabilize Weekly KPIs
-> Identify and smooth the causes of weekly profit volatility.
+Identify and smooth the causes of weekly profit volatility.
 
 ---
 
